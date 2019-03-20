@@ -1,0 +1,53 @@
+------
+Drone: 1
+
+id: 0
+command: command
+response: None
+start time: 2019-03-19 23:08:47.897646
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2019-03-19 23:08:52.910399
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2019-03-19 23:08:57.929684
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2019-03-19 23:09:02.948108
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2019-03-19 23:09:07.966323
+end_time: None
+duration: None
+
+id: 5
+command: command
+response: ok
+start time: 2019-03-19 23:09:12.985147
+end_time: 2019-03-19 23:09:13.027456
+duration: 0.042309
+
+id: 6
+command: battery?
+response: 14
+
+start time: 2019-03-19 23:09:18.004498
+end_time: 2019-03-19 23:09:18.037035
+duration: 0.032537
+

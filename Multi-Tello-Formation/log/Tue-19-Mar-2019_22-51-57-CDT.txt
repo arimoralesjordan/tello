@@ -1,0 +1,60 @@
+------
+Drone: 1
+
+id: 0
+command: command
+response: ok
+start time: 2019-03-19 22:51:57.842434
+end_time: 2019-03-19 22:51:57.896100
+duration: 0.053666
+
+id: 1
+command: battery?
+response: 64
+
+start time: 2019-03-19 22:52:02.854670
+end_time: 2019-03-19 22:52:02.943994
+duration: 0.089324
+
+id: 2
+command: sn?
+response: 0TQDFB6EDB433F
+start time: 2019-03-19 22:52:04.356136
+end_time: 2019-03-19 22:52:04.384469
+duration: 0.028333
+
+id: 3
+command: mon
+response: ok
+start time: 2019-03-19 22:52:05.857902
+end_time: 2019-03-19 22:52:05.902041
+duration: 0.044139
+
+id: 4
+command: takeoff
+response: ok
+start time: 2019-03-19 22:52:05.902211
+end_time: 2019-03-19 22:52:09.421525
+duration: 3.519314
+
+id: 5
+command: curve 100 50 100 -50 -100 100 60 m1
+response: error Arc's length is too long!
+start time: 2019-03-19 22:52:09.421770
+end_time: 2019-03-19 22:52:09.474288
+duration: 0.052518
+
+id: 6
+command: go -100 0 100 0 100 100 60 60 m3
+response: None
+start time: 2019-03-19 22:52:09.474437
+end_time: None
+duration: None
+
+id: 7
+command: land
+response: ok
+start time: 2019-03-19 22:52:18.474636
+end_time: 2019-03-19 22:52:22.018912
+duration: 3.544276
+

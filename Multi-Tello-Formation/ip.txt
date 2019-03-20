@@ -1,0 +1,5 @@
+scan 1
+correct_ip
+delay 20
+1=0TQDFB6EDB433F
+1>sdk?

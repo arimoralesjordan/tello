@@ -1,0 +1,1691 @@
+------
+Drone: 1
+
+id: 0
+command: command
+response: ok
+start time: 2019-03-16 14:07:15.416784
+end_time: 2019-03-16 14:07:15.551011
+duration: 0.134227
+
+id: 1
+command: command
+response: ok
+start time: 2019-03-16 14:07:20.425998
+end_time: 2019-03-16 14:07:20.475656
+duration: 0.049658
+
+id: 2
+command: battery?
+response: 92
+
+start time: 2019-03-16 14:07:20.475817
+end_time: 2019-03-16 14:07:20.518855
+duration: 0.043038
+
+id: 3
+command: command
+response: ok
+start time: 2019-03-16 14:07:20.519098
+end_time: 2019-03-16 14:07:20.569789
+duration: 0.050691
+
+id: 4
+command: command
+response: ok
+start time: 2019-03-16 14:07:20.570001
+end_time: 2019-03-16 14:07:20.620918
+duration: 0.050917
+
+id: 5
+command: command
+response: ok
+start time: 2019-03-16 14:07:20.621125
+end_time: 2019-03-16 14:07:20.672069
+duration: 0.050944
+
+id: 6
+command: command
+response: ok
+start time: 2019-03-16 14:07:20.672249
+end_time: 2019-03-16 14:07:20.723858
+duration: 0.051609
+
+id: 7
+command: command
+response: ok
+start time: 2019-03-16 14:07:20.724025
+end_time: 2019-03-16 14:07:20.774737
+duration: 0.050712
+
+id: 8
+command: command
+response: ok
+start time: 2019-03-16 14:07:20.774876
+end_time: 2019-03-16 14:07:20.828008
+duration: 0.053132
+
+id: 9
+command: command
+response: ok
+start time: 2019-03-16 14:07:20.828171
+end_time: 2019-03-16 14:07:20.884746
+duration: 0.056575
+
+id: 10
+command: command
+response: ok
+start time: 2019-03-16 14:07:20.884921
+end_time: 2019-03-16 14:07:20.929538
+duration: 0.044617
+
+id: 11
+command: command
+response: ok
+start time: 2019-03-16 14:07:20.929681
+end_time: 2019-03-16 14:07:20.979550
+duration: 0.049869
+
+id: 12
+command: command
+response: ok
+start time: 2019-03-16 14:07:20.979738
+end_time: 2019-03-16 14:07:21.030645
+duration: 0.050907
+
+id: 13
+command: command
+response: ok
+start time: 2019-03-16 14:07:21.030949
+end_time: 2019-03-16 14:07:21.081965
+duration: 0.051016
+
+id: 14
+command: command
+response: ok
+start time: 2019-03-16 14:07:21.082080
+end_time: 2019-03-16 14:07:21.132745
+duration: 0.050665
+
+id: 15
+command: command
+response: ok
+start time: 2019-03-16 14:07:21.132886
+end_time: 2019-03-16 14:07:21.200752
+duration: 0.067866
+
+id: 16
+command: command
+response: ok
+start time: 2019-03-16 14:07:21.200887
+end_time: 2019-03-16 14:07:21.243658
+duration: 0.042771
+
+id: 17
+command: command
+response: ok
+start time: 2019-03-16 14:07:21.243823
+end_time: 2019-03-16 14:07:21.286089
+duration: 0.042266
+
+id: 18
+command: command
+response: ok
+start time: 2019-03-16 14:07:21.286300
+end_time: 2019-03-16 14:07:21.344687
+duration: 0.058387
+
+id: 19
+command: command
+response: ok
+start time: 2019-03-16 14:07:21.344907
+end_time: 2019-03-16 14:07:21.394160
+duration: 0.049253
+
+id: 20
+command: command
+response: ok
+start time: 2019-03-16 14:07:21.394342
+end_time: 2019-03-16 14:07:21.448851
+duration: 0.054509
+
+id: 21
+command: command
+response: ok
+start time: 2019-03-16 14:07:21.449031
+end_time: 2019-03-16 14:07:21.494644
+duration: 0.045613
+
+id: 22
+command: command
+response: ok
+start time: 2019-03-16 14:07:21.494861
+end_time: 2019-03-16 14:07:21.565720
+duration: 0.070859
+
+id: 23
+command: command
+response: ok
+start time: 2019-03-16 14:07:21.565844
+end_time: 2019-03-16 14:07:21.596069
+duration: 0.030225
+
+id: 24
+command: command
+response: ok
+start time: 2019-03-16 14:07:21.596197
+end_time: 2019-03-16 14:07:21.646335
+duration: 0.050138
+
+id: 25
+command: command
+response: ok
+start time: 2019-03-16 14:07:21.646499
+end_time: 2019-03-16 14:07:21.705324
+duration: 0.058825
+
+id: 26
+command: command
+response: ok
+start time: 2019-03-16 14:07:21.705487
+end_time: 2019-03-16 14:07:21.784402
+duration: 0.078915
+
+id: 27
+command: command
+response: ok
+start time: 2019-03-16 14:07:21.784586
+end_time: 2019-03-16 14:07:21.798687
+duration: 0.014101
+
+id: 28
+command: command
+response: ok
+start time: 2019-03-16 14:07:21.798897
+end_time: 2019-03-16 14:07:21.860557
+duration: 0.06166
+
+id: 29
+command: command
+response: ok
+start time: 2019-03-16 14:07:21.860683
+end_time: 2019-03-16 14:07:21.909028
+duration: 0.048345
+
+id: 30
+command: command
+response: ok
+start time: 2019-03-16 14:07:21.909240
+end_time: 2019-03-16 14:07:21.998747
+duration: 0.089507
+
+id: 31
+command: command
+response: ok
+start time: 2019-03-16 14:07:21.998899
+end_time: 2019-03-16 14:07:22.052767
+duration: 0.053868
+
+id: 32
+command: command
+response: ok
+start time: 2019-03-16 14:07:22.052894
+end_time: 2019-03-16 14:07:22.132214
+duration: 0.07932
+
+id: 33
+command: command
+response: ok
+start time: 2019-03-16 14:07:22.132476
+end_time: 2019-03-16 14:07:22.161319
+duration: 0.028843
+
+id: 34
+command: command
+response: ok
+start time: 2019-03-16 14:07:22.161587
+end_time: 2019-03-16 14:07:22.224835
+duration: 0.063248
+
+id: 35
+command: command
+response: ok
+start time: 2019-03-16 14:07:22.225043
+end_time: 2019-03-16 14:07:22.313572
+duration: 0.088529
+
+id: 36
+command: command
+response: ok
+start time: 2019-03-16 14:07:22.313698
+end_time: 2019-03-16 14:07:22.361072
+duration: 0.047374
+
+id: 37
+command: command
+response: ok
+start time: 2019-03-16 14:07:22.361231
+end_time: 2019-03-16 14:07:22.424802
+duration: 0.063571
+
+id: 38
+command: command
+response: ok
+start time: 2019-03-16 14:07:22.424937
+end_time: 2019-03-16 14:07:22.500751
+duration: 0.075814
+
+id: 39
+command: command
+response: ok
+start time: 2019-03-16 14:07:22.500902
+end_time: 2019-03-16 14:07:22.553165
+duration: 0.052263
+
+id: 40
+command: command
+response: ok
+start time: 2019-03-16 14:07:22.553289
+end_time: 2019-03-16 14:07:22.572745
+duration: 0.019456
+
+id: 41
+command: command
+response: ok
+start time: 2019-03-16 14:07:22.572895
+end_time: 2019-03-16 14:07:22.620756
+duration: 0.047861
+
+id: 42
+command: command
+response: ok
+start time: 2019-03-16 14:07:22.620971
+end_time: 2019-03-16 14:07:22.666048
+duration: 0.045077
+
+id: 43
+command: command
+response: ok
+start time: 2019-03-16 14:07:22.666151
+end_time: 2019-03-16 14:07:22.715702
+duration: 0.049551
+
+id: 44
+command: command
+response: ok
+start time: 2019-03-16 14:07:22.715913
+end_time: 2019-03-16 14:07:22.768962
+duration: 0.053049
+
+id: 45
+command: command
+response: ok
+start time: 2019-03-16 14:07:22.769159
+end_time: 2019-03-16 14:07:22.837718
+duration: 0.068559
+
+id: 46
+command: command
+response: ok
+start time: 2019-03-16 14:07:22.837838
+end_time: 2019-03-16 14:07:22.892747
+duration: 0.054909
+
+id: 47
+command: command
+response: ok
+start time: 2019-03-16 14:07:22.892871
+end_time: 2019-03-16 14:07:22.924765
+duration: 0.031894
+
+id: 48
+command: command
+response: ok
+start time: 2019-03-16 14:07:22.924887
+end_time: 2019-03-16 14:07:22.975549
+duration: 0.050662
+
+id: 49
+command: command
+response: ok
+start time: 2019-03-16 14:07:22.975667
+end_time: 2019-03-16 14:07:23.021892
+duration: 0.046225
+
+id: 50
+command: command
+response: ok
+start time: 2019-03-16 14:07:23.022006
+end_time: 2019-03-16 14:07:23.096743
+duration: 0.074737
+
+id: 51
+command: command
+response: ok
+start time: 2019-03-16 14:07:23.096872
+end_time: 2019-03-16 14:07:23.205927
+duration: 0.109055
+
+id: 52
+command: command
+response: ok
+start time: 2019-03-16 14:07:23.206060
+end_time: 2019-03-16 14:07:23.240821
+duration: 0.034761
+
+id: 53
+command: command
+response: ok
+start time: 2019-03-16 14:07:23.240972
+end_time: 2019-03-16 14:07:23.280810
+duration: 0.039838
+
+id: 54
+command: command
+response: ok
+start time: 2019-03-16 14:07:23.280939
+end_time: 2019-03-16 14:07:23.360755
+duration: 0.079816
+
+id: 55
+command: command
+response: ok
+start time: 2019-03-16 14:07:23.360933
+end_time: 2019-03-16 14:07:23.411399
+duration: 0.050466
+
+id: 56
+command: command
+response: ok
+start time: 2019-03-16 14:07:23.411500
+end_time: 2019-03-16 14:07:23.429785
+duration: 0.018285
+
+id: 57
+command: command
+response: ok
+start time: 2019-03-16 14:07:23.429963
+end_time: 2019-03-16 14:07:23.480697
+duration: 0.050734
+
+id: 58
+command: command
+response: ok
+start time: 2019-03-16 14:07:23.480901
+end_time: 2019-03-16 14:07:23.532751
+duration: 0.05185
+
+id: 59
+command: command
+response: ok
+start time: 2019-03-16 14:07:23.532990
+end_time: 2019-03-16 14:07:23.582692
+duration: 0.049702
+
+id: 60
+command: command
+response: ok
+start time: 2019-03-16 14:07:23.582902
+end_time: 2019-03-16 14:07:23.633939
+duration: 0.051037
+
+id: 61
+command: command
+response: ok
+start time: 2019-03-16 14:07:23.634126
+end_time: 2019-03-16 14:07:23.696743
+duration: 0.062617
+
+id: 62
+command: command
+response: ok
+start time: 2019-03-16 14:07:23.696876
+end_time: 2019-03-16 14:07:23.743018
+duration: 0.046142
+
+id: 63
+command: command
+response: ok
+start time: 2019-03-16 14:07:23.743173
+end_time: 2019-03-16 14:07:23.808052
+duration: 0.064879
+
+id: 64
+command: command
+response: ok
+start time: 2019-03-16 14:07:23.808198
+end_time: 2019-03-16 14:07:23.850772
+duration: 0.042574
+
+id: 65
+command: command
+response: ok
+start time: 2019-03-16 14:07:23.850903
+end_time: 2019-03-16 14:07:23.889664
+duration: 0.038761
+
+id: 66
+command: command
+response: ok
+start time: 2019-03-16 14:07:23.889847
+end_time: 2019-03-16 14:07:23.945508
+duration: 0.055661
+
+id: 67
+command: command
+response: ok
+start time: 2019-03-16 14:07:23.945723
+end_time: 2019-03-16 14:07:23.993160
+duration: 0.047437
+
+id: 68
+command: command
+response: ok
+start time: 2019-03-16 14:07:23.993320
+end_time: 2019-03-16 14:07:24.060762
+duration: 0.067442
+
+id: 69
+command: command
+response: ok
+start time: 2019-03-16 14:07:24.060895
+end_time: 2019-03-16 14:07:24.096784
+duration: 0.035889
+
+id: 70
+command: command
+response: ok
+start time: 2019-03-16 14:07:24.097056
+end_time: 2019-03-16 14:07:24.144913
+duration: 0.047857
+
+id: 71
+command: command
+response: ok
+start time: 2019-03-16 14:07:24.145083
+end_time: 2019-03-16 14:07:24.198682
+duration: 0.053599
+
+id: 72
+command: command
+response: ok
+start time: 2019-03-16 14:07:24.198808
+end_time: 2019-03-16 14:07:24.256903
+duration: 0.058095
+
+id: 73
+command: command
+response: ok
+start time: 2019-03-16 14:07:24.257032
+end_time: 2019-03-16 14:07:24.297806
+duration: 0.040774
+
+id: 74
+command: command
+response: ok
+start time: 2019-03-16 14:07:24.297933
+end_time: 2019-03-16 14:07:24.360786
+duration: 0.062853
+
+id: 75
+command: command
+response: ok
+start time: 2019-03-16 14:07:24.360998
+end_time: 2019-03-16 14:07:24.399659
+duration: 0.038661
+
+id: 76
+command: command
+response: ok
+start time: 2019-03-16 14:07:24.399880
+end_time: 2019-03-16 14:07:24.450826
+duration: 0.050946
+
+id: 77
+command: command
+response: ok
+start time: 2019-03-16 14:07:24.450976
+end_time: 2019-03-16 14:07:24.502683
+duration: 0.051707
+
+id: 78
+command: command
+response: ok
+start time: 2019-03-16 14:07:24.502921
+end_time: 2019-03-16 14:07:24.552815
+duration: 0.049894
+
+id: 79
+command: command
+response: ok
+start time: 2019-03-16 14:07:24.553004
+end_time: 2019-03-16 14:07:24.603631
+duration: 0.050627
+
+id: 80
+command: command
+response: ok
+start time: 2019-03-16 14:07:24.603858
+end_time: 2019-03-16 14:07:24.654584
+duration: 0.050726
+
+id: 81
+command: command
+response: ok
+start time: 2019-03-16 14:07:24.654762
+end_time: 2019-03-16 14:07:24.705722
+duration: 0.05096
+
+id: 82
+command: command
+response: ok
+start time: 2019-03-16 14:07:24.705899
+end_time: 2019-03-16 14:07:24.774429
+duration: 0.06853
+
+id: 83
+command: command
+response: ok
+start time: 2019-03-16 14:07:24.774563
+end_time: 2019-03-16 14:07:24.841334
+duration: 0.066771
+
+id: 84
+command: command
+response: ok
+start time: 2019-03-16 14:07:24.841454
+end_time: 2019-03-16 14:07:24.864964
+duration: 0.02351
+
+id: 85
+command: command
+response: ok
+start time: 2019-03-16 14:07:24.865107
+end_time: 2019-03-16 14:07:24.938462
+duration: 0.073355
+
+id: 86
+command: command
+response: ok
+start time: 2019-03-16 14:07:24.938602
+end_time: 2019-03-16 14:07:24.961203
+duration: 0.022601
+
+id: 87
+command: command
+response: ok
+start time: 2019-03-16 14:07:24.961397
+end_time: 2019-03-16 14:07:25.017401
+duration: 0.056004
+
+id: 88
+command: command
+response: ok
+start time: 2019-03-16 14:07:25.017570
+end_time: 2019-03-16 14:07:25.062482
+duration: 0.044912
+
+id: 89
+command: command
+response: ok
+start time: 2019-03-16 14:07:25.062638
+end_time: 2019-03-16 14:07:25.123423
+duration: 0.060785
+
+id: 90
+command: command
+response: ok
+start time: 2019-03-16 14:07:25.123577
+end_time: 2019-03-16 14:07:25.174399
+duration: 0.050822
+
+id: 91
+command: command
+response: ok
+start time: 2019-03-16 14:07:25.174522
+end_time: 2019-03-16 14:07:25.217888
+duration: 0.043366
+
+id: 92
+command: command
+response: ok
+start time: 2019-03-16 14:07:25.218065
+end_time: 2019-03-16 14:07:25.267798
+duration: 0.049733
+
+id: 93
+command: command
+response: ok
+start time: 2019-03-16 14:07:25.267924
+end_time: 2019-03-16 14:07:25.338486
+duration: 0.070562
+
+id: 94
+command: command
+response: ok
+start time: 2019-03-16 14:07:25.338693
+end_time: 2019-03-16 14:07:25.378835
+duration: 0.040142
+
+id: 95
+command: command
+response: ok
+start time: 2019-03-16 14:07:25.379121
+end_time: 2019-03-16 14:07:25.444771
+duration: 0.06565
+
+id: 96
+command: command
+response: ok
+start time: 2019-03-16 14:07:25.444906
+end_time: 2019-03-16 14:07:25.493239
+duration: 0.048333
+
+id: 97
+command: command
+response: ok
+start time: 2019-03-16 14:07:25.493406
+end_time: 2019-03-16 14:07:25.527499
+duration: 0.034093
+
+id: 98
+command: command
+response: ok
+start time: 2019-03-16 14:07:25.527660
+end_time: 2019-03-16 14:07:25.578413
+duration: 0.050753
+
+id: 99
+command: command
+response: ok
+start time: 2019-03-16 14:07:25.578686
+end_time: 2019-03-16 14:07:25.664773
+duration: 0.086087
+
+id: 100
+command: command
+response: ok
+start time: 2019-03-16 14:07:25.664919
+end_time: 2019-03-16 14:07:25.684181
+duration: 0.019262
+
+id: 101
+command: command
+response: ok
+start time: 2019-03-16 14:07:25.684367
+end_time: 2019-03-16 14:07:25.747318
+duration: 0.062951
+
+id: 102
+command: command
+response: ok
+start time: 2019-03-16 14:07:25.747437
+end_time: 2019-03-16 14:07:25.789205
+duration: 0.041768
+
+id: 103
+command: command
+response: ok
+start time: 2019-03-16 14:07:25.789328
+end_time: 2019-03-16 14:07:25.832792
+duration: 0.043464
+
+id: 104
+command: command
+response: ok
+start time: 2019-03-16 14:07:25.832984
+end_time: 2019-03-16 14:07:25.880760
+duration: 0.047776
+
+id: 105
+command: command
+response: ok
+start time: 2019-03-16 14:07:25.880881
+end_time: 2019-03-16 14:07:25.930648
+duration: 0.049767
+
+id: 106
+command: command
+response: ok
+start time: 2019-03-16 14:07:25.930788
+end_time: 2019-03-16 14:07:25.991382
+duration: 0.060594
+
+id: 107
+command: command
+response: ok
+start time: 2019-03-16 14:07:25.991500
+end_time: 2019-03-16 14:07:26.035530
+duration: 0.04403
+
+id: 108
+command: command
+response: ok
+start time: 2019-03-16 14:07:26.035660
+end_time: 2019-03-16 14:07:26.084205
+duration: 0.048545
+
+id: 109
+command: command
+response: ok
+start time: 2019-03-16 14:07:26.084348
+end_time: 2019-03-16 14:07:26.134645
+duration: 0.050297
+
+id: 110
+command: command
+response: ok
+start time: 2019-03-16 14:07:26.134818
+end_time: 2019-03-16 14:07:26.186409
+duration: 0.051591
+
+id: 111
+command: command
+response: ok
+start time: 2019-03-16 14:07:26.186615
+end_time: 2019-03-16 14:07:26.237956
+duration: 0.051341
+
+id: 112
+command: command
+response: ok
+start time: 2019-03-16 14:07:26.238171
+end_time: 2019-03-16 14:07:26.294377
+duration: 0.056206
+
+id: 113
+command: command
+response: ok
+start time: 2019-03-16 14:07:26.294566
+end_time: 2019-03-16 14:07:26.339703
+duration: 0.045137
+
+id: 114
+command: command
+response: ok
+start time: 2019-03-16 14:07:26.339941
+end_time: 2019-03-16 14:07:26.397719
+duration: 0.057778
+
+id: 115
+command: command
+response: ok
+start time: 2019-03-16 14:07:26.397894
+end_time: 2019-03-16 14:07:26.445791
+duration: 0.047897
+
+id: 116
+command: command
+response: ok
+start time: 2019-03-16 14:07:26.445936
+end_time: 2019-03-16 14:07:26.497976
+duration: 0.05204
+
+id: 117
+command: command
+response: ok
+start time: 2019-03-16 14:07:26.498095
+end_time: 2019-03-16 14:07:26.544986
+duration: 0.046891
+
+id: 118
+command: command
+response: ok
+start time: 2019-03-16 14:07:26.545185
+end_time: 2019-03-16 14:07:26.603250
+duration: 0.058065
+
+id: 119
+command: command
+response: ok
+start time: 2019-03-16 14:07:26.603471
+end_time: 2019-03-16 14:07:26.645644
+duration: 0.042173
+
+id: 120
+command: command
+response: ok
+start time: 2019-03-16 14:07:26.645896
+end_time: 2019-03-16 14:07:26.726221
+duration: 0.080325
+
+id: 121
+command: command
+response: ok
+start time: 2019-03-16 14:07:26.726385
+end_time: 2019-03-16 14:07:26.756952
+duration: 0.030567
+
+id: 122
+command: command
+response: ok
+start time: 2019-03-16 14:07:26.757116
+end_time: 2019-03-16 14:07:26.799173
+duration: 0.042057
+
+id: 123
+command: command
+response: ok
+start time: 2019-03-16 14:07:26.799397
+end_time: 2019-03-16 14:07:26.888750
+duration: 0.089353
+
+id: 124
+command: command
+response: ok
+start time: 2019-03-16 14:07:26.888899
+end_time: 2019-03-16 14:07:26.910854
+duration: 0.021955
+
+id: 125
+command: command
+response: ok
+start time: 2019-03-16 14:07:26.911041
+end_time: 2019-03-16 14:07:26.951578
+duration: 0.040537
+
+id: 126
+command: command
+response: ok
+start time: 2019-03-16 14:07:26.951801
+end_time: 2019-03-16 14:07:27.003422
+duration: 0.051621
+
+id: 127
+command: command
+response: ok
+start time: 2019-03-16 14:07:27.003602
+end_time: 2019-03-16 14:07:27.065085
+duration: 0.061483
+
+id: 128
+command: command
+response: ok
+start time: 2019-03-16 14:07:27.065221
+end_time: 2019-03-16 14:07:27.113662
+duration: 0.048441
+
+id: 129
+command: command
+response: ok
+start time: 2019-03-16 14:07:27.113864
+end_time: 2019-03-16 14:07:27.155565
+duration: 0.041701
+
+id: 130
+command: command
+response: ok
+start time: 2019-03-16 14:07:27.155790
+end_time: 2019-03-16 14:07:27.206523
+duration: 0.050733
+
+id: 131
+command: command
+response: ok
+start time: 2019-03-16 14:07:27.206722
+end_time: 2019-03-16 14:07:27.257541
+duration: 0.050819
+
+id: 132
+command: command
+response: ok
+start time: 2019-03-16 14:07:27.257717
+end_time: 2019-03-16 14:07:27.308746
+duration: 0.051029
+
+id: 133
+command: command
+response: ok
+start time: 2019-03-16 14:07:27.308907
+end_time: 2019-03-16 14:07:27.427371
+duration: 0.118464
+
+id: 134
+command: command
+response: ok
+start time: 2019-03-16 14:07:27.427512
+end_time: 2019-03-16 14:07:27.462752
+duration: 0.03524
+
+id: 135
+command: command
+response: ok
+start time: 2019-03-16 14:07:27.462907
+end_time: 2019-03-16 14:07:27.513467
+duration: 0.05056
+
+id: 136
+command: command
+response: ok
+start time: 2019-03-16 14:07:27.513665
+end_time: 2019-03-16 14:07:27.564588
+duration: 0.050923
+
+id: 137
+command: command
+response: ok
+start time: 2019-03-16 14:07:27.564817
+end_time: 2019-03-16 14:07:27.630554
+duration: 0.065737
+
+id: 138
+command: command
+response: ok
+start time: 2019-03-16 14:07:27.630697
+end_time: 2019-03-16 14:07:27.718446
+duration: 0.087749
+
+id: 139
+command: command
+response: ok
+start time: 2019-03-16 14:07:27.718604
+end_time: 2019-03-16 14:07:27.797295
+duration: 0.078691
+
+id: 140
+command: command
+response: ok
+start time: 2019-03-16 14:07:27.797421
+end_time: 2019-03-16 14:07:27.856746
+duration: 0.059325
+
+id: 141
+command: command
+response: ok
+start time: 2019-03-16 14:07:27.856887
+end_time: 2019-03-16 14:07:27.892763
+duration: 0.035876
+
+id: 142
+command: command
+response: ok
+start time: 2019-03-16 14:07:27.892910
+end_time: 2019-03-16 14:07:27.971778
+duration: 0.078868
+
+id: 143
+command: command
+response: ok
+start time: 2019-03-16 14:07:27.971923
+end_time: 2019-03-16 14:07:28.033102
+duration: 0.061179
+
+id: 144
+command: command
+response: ok
+start time: 2019-03-16 14:07:28.033224
+end_time: 2019-03-16 14:07:28.077398
+duration: 0.044174
+
+id: 145
+command: command
+response: ok
+start time: 2019-03-16 14:07:28.077519
+end_time: 2019-03-16 14:07:28.126553
+duration: 0.049034
+
+id: 146
+command: command
+response: ok
+start time: 2019-03-16 14:07:28.126733
+end_time: 2019-03-16 14:07:28.187303
+duration: 0.06057
+
+id: 147
+command: command
+response: ok
+start time: 2019-03-16 14:07:28.187472
+end_time: 2019-03-16 14:07:28.229591
+duration: 0.042119
+
+id: 148
+command: command
+response: ok
+start time: 2019-03-16 14:07:28.229764
+end_time: 2019-03-16 14:07:28.280762
+duration: 0.050998
+
+id: 149
+command: command
+response: ok
+start time: 2019-03-16 14:07:28.280927
+end_time: 2019-03-16 14:07:28.343421
+duration: 0.062494
+
+id: 150
+command: command
+response: ok
+start time: 2019-03-16 14:07:28.343541
+end_time: 2019-03-16 14:07:28.382592
+duration: 0.039051
+
+id: 151
+command: command
+response: ok
+start time: 2019-03-16 14:07:28.382767
+end_time: 2019-03-16 14:07:28.433443
+duration: 0.050676
+
+id: 152
+command: command
+response: ok
+start time: 2019-03-16 14:07:28.433674
+end_time: 2019-03-16 14:07:28.485709
+duration: 0.052035
+
+id: 153
+command: command
+response: ok
+start time: 2019-03-16 14:07:28.485955
+end_time: 2019-03-16 14:07:28.536473
+duration: 0.050518
+
+id: 154
+command: command
+response: ok
+start time: 2019-03-16 14:07:28.536673
+end_time: 2019-03-16 14:07:28.587591
+duration: 0.050918
+
+id: 155
+command: command
+response: ok
+start time: 2019-03-16 14:07:28.587765
+end_time: 2019-03-16 14:07:28.650254
+duration: 0.062489
+
+id: 156
+command: command
+response: ok
+start time: 2019-03-16 14:07:28.650436
+end_time: 2019-03-16 14:07:28.722471
+duration: 0.072035
+
+id: 157
+command: command
+response: ok
+start time: 2019-03-16 14:07:28.722591
+end_time: 2019-03-16 14:07:28.760418
+duration: 0.037827
+
+id: 158
+command: command
+response: ok
+start time: 2019-03-16 14:07:28.760571
+end_time: 2019-03-16 14:07:28.800814
+duration: 0.040243
+
+id: 159
+command: command
+response: ok
+start time: 2019-03-16 14:07:28.801067
+end_time: 2019-03-16 14:07:28.842247
+duration: 0.04118
+
+id: 160
+command: command
+response: ok
+start time: 2019-03-16 14:07:28.842465
+end_time: 2019-03-16 14:07:28.893392
+duration: 0.050927
+
+id: 161
+command: command
+response: ok
+start time: 2019-03-16 14:07:28.893589
+end_time: 2019-03-16 14:07:28.944581
+duration: 0.050992
+
+id: 162
+command: command
+response: ok
+start time: 2019-03-16 14:07:28.944775
+end_time: 2019-03-16 14:07:29.000365
+duration: 0.05559
+
+id: 163
+command: command
+response: ok
+start time: 2019-03-16 14:07:29.000541
+end_time: 2019-03-16 14:07:29.076781
+duration: 0.07624
+
+id: 164
+command: command
+response: ok
+start time: 2019-03-16 14:07:29.076909
+end_time: 2019-03-16 14:07:29.098816
+duration: 0.021907
+
+id: 165
+command: command
+response: ok
+start time: 2019-03-16 14:07:29.099034
+end_time: 2019-03-16 14:07:29.166739
+duration: 0.067705
+
+id: 166
+command: command
+response: ok
+start time: 2019-03-16 14:07:29.166907
+end_time: 2019-03-16 14:07:29.218146
+duration: 0.051239
+
+id: 167
+command: command
+response: ok
+start time: 2019-03-16 14:07:29.218303
+end_time: 2019-03-16 14:07:29.251948
+duration: 0.033645
+
+id: 168
+command: command
+response: ok
+start time: 2019-03-16 14:07:29.252054
+end_time: 2019-03-16 14:07:29.333787
+duration: 0.081733
+
+id: 169
+command: command
+response: ok
+start time: 2019-03-16 14:07:29.333990
+end_time: 2019-03-16 14:07:29.372538
+duration: 0.038548
+
+id: 170
+command: command
+response: ok
+start time: 2019-03-16 14:07:29.372646
+end_time: 2019-03-16 14:07:29.404504
+duration: 0.031858
+
+id: 171
+command: command
+response: ok
+start time: 2019-03-16 14:07:29.404674
+end_time: 2019-03-16 14:07:29.494422
+duration: 0.089748
+
+id: 172
+command: command
+response: ok
+start time: 2019-03-16 14:07:29.494551
+end_time: 2019-03-16 14:07:29.515744
+duration: 0.021193
+
+id: 173
+command: command
+response: ok
+start time: 2019-03-16 14:07:29.516024
+end_time: 2019-03-16 14:07:29.561805
+duration: 0.045781
+
+id: 174
+command: command
+response: ok
+start time: 2019-03-16 14:07:29.561966
+end_time: 2019-03-16 14:07:29.640528
+duration: 0.078562
+
+id: 175
+command: command
+response: ok
+start time: 2019-03-16 14:07:29.640657
+end_time: 2019-03-16 14:07:29.661930
+duration: 0.021273
+
+id: 176
+command: command
+response: ok
+start time: 2019-03-16 14:07:29.662113
+end_time: 2019-03-16 14:07:29.751507
+duration: 0.089394
+
+id: 177
+command: command
+response: ok
+start time: 2019-03-16 14:07:29.751669
+end_time: 2019-03-16 14:07:29.774070
+duration: 0.022401
+
+id: 178
+command: command
+response: ok
+start time: 2019-03-16 14:07:29.774225
+end_time: 2019-03-16 14:07:29.827775
+duration: 0.05355
+
+id: 179
+command: command
+response: ok
+start time: 2019-03-16 14:07:29.827929
+end_time: 2019-03-16 14:07:29.864807
+duration: 0.036878
+
+id: 180
+command: command
+response: ok
+start time: 2019-03-16 14:07:29.865008
+end_time: 2019-03-16 14:07:29.914309
+duration: 0.049301
+
+id: 181
+command: command
+response: ok
+start time: 2019-03-16 14:07:29.914456
+end_time: 2019-03-16 14:07:29.972963
+duration: 0.058507
+
+id: 182
+command: command
+response: ok
+start time: 2019-03-16 14:07:29.973174
+end_time: 2019-03-16 14:07:30.031639
+duration: 0.058465
+
+id: 183
+command: command
+response: ok
+start time: 2019-03-16 14:07:30.031771
+end_time: 2019-03-16 14:07:30.068747
+duration: 0.036976
+
+id: 184
+command: command
+response: ok
+start time: 2019-03-16 14:07:30.068926
+end_time: 2019-03-16 14:07:30.136759
+duration: 0.067833
+
+id: 185
+command: command
+response: ok
+start time: 2019-03-16 14:07:30.136934
+end_time: 2019-03-16 14:07:30.178239
+duration: 0.041305
+
+id: 186
+command: command
+response: ok
+start time: 2019-03-16 14:07:30.178412
+end_time: 2019-03-16 14:07:30.221592
+duration: 0.04318
+
+id: 187
+command: command
+response: ok
+start time: 2019-03-16 14:07:30.221760
+end_time: 2019-03-16 14:07:30.278278
+duration: 0.056518
+
+id: 188
+command: command
+response: ok
+start time: 2019-03-16 14:07:30.278465
+end_time: 2019-03-16 14:07:30.332760
+duration: 0.054295
+
+id: 189
+command: command
+response: ok
+start time: 2019-03-16 14:07:30.332945
+end_time: 2019-03-16 14:07:30.376970
+duration: 0.044025
+
+id: 190
+command: command
+response: ok
+start time: 2019-03-16 14:07:30.377135
+end_time: 2019-03-16 14:07:30.460780
+duration: 0.083645
+
+id: 191
+command: command
+response: ok
+start time: 2019-03-16 14:07:30.460902
+end_time: 2019-03-16 14:07:30.494037
+duration: 0.033135
+
+id: 192
+command: command
+response: ok
+start time: 2019-03-16 14:07:30.494180
+end_time: 2019-03-16 14:07:30.544484
+duration: 0.050304
+
+id: 193
+command: command
+response: ok
+start time: 2019-03-16 14:07:30.544609
+end_time: 2019-03-16 14:07:30.592088
+duration: 0.047479
+
+id: 194
+command: command
+response: ok
+start time: 2019-03-16 14:07:30.592273
+end_time: 2019-03-16 14:07:30.689175
+duration: 0.096902
+
+id: 195
+command: command
+response: ok
+start time: 2019-03-16 14:07:30.689327
+end_time: 2019-03-16 14:07:30.768882
+duration: 0.079555
+
+id: 196
+command: command
+response: ok
+start time: 2019-03-16 14:07:30.768971
+end_time: 2019-03-16 14:07:30.796743
+duration: 0.027772
+
+id: 197
+command: command
+response: ok
+start time: 2019-03-16 14:07:30.796870
+end_time: 2019-03-16 14:07:30.856452
+duration: 0.059582
+
+id: 198
+command: command
+response: ok
+start time: 2019-03-16 14:07:30.856606
+end_time: 2019-03-16 14:07:30.889693
+duration: 0.033087
+
+id: 199
+command: command
+response: ok
+start time: 2019-03-16 14:07:30.889800
+end_time: 2019-03-16 14:07:30.952763
+duration: 0.062963
+
+id: 200
+command: command
+response: ok
+start time: 2019-03-16 14:07:30.952954
+end_time: 2019-03-16 14:07:31.006062
+duration: 0.053108
+
+id: 201
+command: command
+response: ok
+start time: 2019-03-16 14:07:31.006204
+end_time: 2019-03-16 14:07:31.092388
+duration: 0.086184
+
+id: 202
+command: command
+response: ok
+start time: 2019-03-16 14:07:31.092518
+end_time: 2019-03-16 14:07:31.144457
+duration: 0.051939
+
+id: 203
+command: command
+response: ok
+start time: 2019-03-16 14:07:31.144659
+end_time: 2019-03-16 14:07:31.198457
+duration: 0.053798
+
+id: 204
+command: command
+response: ok
+start time: 2019-03-16 14:07:31.198621
+end_time: 2019-03-16 14:07:31.280784
+duration: 0.082163
+
+id: 205
+command: command
+response: ok
+start time: 2019-03-16 14:07:31.280992
+end_time: 2019-03-16 14:07:31.351962
+duration: 0.07097
+
+id: 206
+command: command
+response: ok
+start time: 2019-03-16 14:07:31.352126
+end_time: 2019-03-16 14:07:31.407403
+duration: 0.055277
+
+id: 207
+command: command
+response: ok
+start time: 2019-03-16 14:07:31.407544
+end_time: 2019-03-16 14:07:31.447911
+duration: 0.040367
+
+id: 208
+command: command
+response: ok
+start time: 2019-03-16 14:07:31.448136
+end_time: 2019-03-16 14:07:31.557361
+duration: 0.109225
+
+id: 209
+command: command
+response: ok
+start time: 2019-03-16 14:07:31.557506
+end_time: 2019-03-16 14:07:31.621675
+duration: 0.064169
+
+id: 210
+command: command
+response: ok
+start time: 2019-03-16 14:07:31.621913
+end_time: 2019-03-16 14:07:31.677437
+duration: 0.055524
+
+id: 211
+command: command
+response: ok
+start time: 2019-03-16 14:07:31.677614
+end_time: 2019-03-16 14:07:31.786468
+duration: 0.108854
+
+id: 212
+command: command
+response: ok
+start time: 2019-03-16 14:07:31.786645
+end_time: 2019-03-16 14:07:31.812927
+duration: 0.026282
+
+id: 213
+command: command
+response: ok
+start time: 2019-03-16 14:07:31.813100
+end_time: 2019-03-16 14:07:31.868768
+duration: 0.055668
+
+id: 214
+command: command
+response: ok
+start time: 2019-03-16 14:07:31.868915
+end_time: 2019-03-16 14:07:31.942117
+duration: 0.073202
+
+id: 215
+command: command
+response: ok
+start time: 2019-03-16 14:07:31.942280
+end_time: 2019-03-16 14:07:32.034717
+duration: 0.092437
+
+id: 216
+command: command
+response: ok
+start time: 2019-03-16 14:07:32.035080
+end_time: 2019-03-16 14:07:32.075984
+duration: 0.040904
+
+id: 217
+command: command
+response: ok
+start time: 2019-03-16 14:07:32.076104
+end_time: 2019-03-16 14:07:32.124748
+duration: 0.048644
+
+id: 218
+command: command
+response: ok
+start time: 2019-03-16 14:07:32.124907
+end_time: 2019-03-16 14:07:32.172746
+duration: 0.047839
+
+id: 219
+command: command
+response: ok
+start time: 2019-03-16 14:07:32.172901
+end_time: 2019-03-16 14:07:32.223591
+duration: 0.05069
+
+id: 220
+command: command
+response: ok
+start time: 2019-03-16 14:07:32.223782
+end_time: 2019-03-16 14:07:32.266024
+duration: 0.042242
+
+id: 221
+command: command
+response: ok
+start time: 2019-03-16 14:07:32.266199
+end_time: 2019-03-16 14:07:32.332971
+duration: 0.066772
+
+id: 222
+command: command
+response: ok
+start time: 2019-03-16 14:07:32.333175
+end_time: 2019-03-16 14:07:32.365607
+duration: 0.032432
+
+id: 223
+command: command
+response: ok
+start time: 2019-03-16 14:07:32.365738
+end_time: 2019-03-16 14:07:32.444758
+duration: 0.07902
+
+id: 224
+command: command
+response: ok
+start time: 2019-03-16 14:07:32.444916
+end_time: 2019-03-16 14:07:32.495198
+duration: 0.050282
+
+id: 225
+command: command
+response: ok
+start time: 2019-03-16 14:07:32.495346
+end_time: 2019-03-16 14:07:32.560797
+duration: 0.065451
+
+id: 226
+command: command
+response: ok
+start time: 2019-03-16 14:07:32.560934
+end_time: 2019-03-16 14:07:32.585467
+duration: 0.024533
+
+id: 227
+command: command
+response: ok
+start time: 2019-03-16 14:07:32.585642
+end_time: 2019-03-16 14:07:32.631105
+duration: 0.045463
+
+id: 228
+command: command
+response: ok
+start time: 2019-03-16 14:07:32.631242
+end_time: 2019-03-16 14:07:32.696748
+duration: 0.065506
+
+id: 229
+command: command
+response: ok
+start time: 2019-03-16 14:07:32.696914
+end_time: 2019-03-16 14:07:32.797915
+duration: 0.101001
+
+id: 230
+command: command
+response: ok
+start time: 2019-03-16 14:07:32.798045
+end_time: 2019-03-16 14:07:32.841658
+duration: 0.043613
+
+id: 231
+command: command
+response: ok
+start time: 2019-03-16 14:07:32.841820
+end_time: 2019-03-16 14:07:32.879860
+duration: 0.03804
+
+id: 232
+command: command
+response: ok
+start time: 2019-03-16 14:07:32.879979
+end_time: 2019-03-16 14:07:32.944747
+duration: 0.064768
+
+id: 233
+command: command
+response: ok
+start time: 2019-03-16 14:07:32.944903
+end_time: 2019-03-16 14:07:32.998242
+duration: 0.053339
+
+id: 234
+command: command
+response: ok
+start time: 2019-03-16 14:07:32.998397
+end_time: 2019-03-16 14:07:33.029755
+duration: 0.031358
+
+id: 235
+command: command
+response: ok
+start time: 2019-03-16 14:07:33.030127
+end_time: 2019-03-16 14:07:33.080342
+duration: 0.050215
+
+id: 236
+command: command
+response: ok
+start time: 2019-03-16 14:07:33.080517
+end_time: 2019-03-16 14:07:33.142872
+duration: 0.062355
+
+id: 237
+command: command
+response: ok
+start time: 2019-03-16 14:07:33.143043
+end_time: 2019-03-16 14:07:33.183033
+duration: 0.03999
+
+id: 238
+command: command
+response: ok
+start time: 2019-03-16 14:07:33.183211
+end_time: 2019-03-16 14:07:33.244758
+duration: 0.061547
+
+id: 239
+command: command
+response: error
+start time: 2019-03-16 14:07:33.245095
+end_time: 2019-03-16 14:07:33.248612
+duration: 0.003517
+
+id: 240
+command: command
+response: None
+start time: 2019-03-16 14:07:33.248754
+end_time: None
+duration: None
+

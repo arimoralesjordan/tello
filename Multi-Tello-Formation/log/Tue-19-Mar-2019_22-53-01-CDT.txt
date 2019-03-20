@@ -1,0 +1,60 @@
+------
+Drone: 1
+
+id: 0
+command: command
+response: ok
+start time: 2019-03-19 22:53:01.184964
+end_time: 2019-03-19 22:53:01.237322
+duration: 0.052358
+
+id: 1
+command: battery?
+response: 57
+
+start time: 2019-03-19 22:53:06.198149
+end_time: 2019-03-19 22:53:06.233861
+duration: 0.035712
+
+id: 2
+command: sn?
+response: 0TQDFB6EDB433F
+start time: 2019-03-19 22:53:07.699684
+end_time: 2019-03-19 22:53:07.713396
+duration: 0.013712
+
+id: 3
+command: mon
+response: ok
+start time: 2019-03-19 22:53:08.700973
+end_time: 2019-03-19 22:53:08.734639
+duration: 0.033666
+
+id: 4
+command: takeoff
+response: ok
+start time: 2019-03-19 22:53:08.734828
+end_time: 2019-03-19 22:53:12.864823
+duration: 4.129995
+
+id: 5
+command: curve 100 00 100 0 -50 100 60 m1
+response: error Not joystick
+start time: 2019-03-19 22:53:12.864963
+end_time: 2019-03-19 22:53:13.452974
+duration: 0.588011
+
+id: 6
+command: go -100 0 100 0 100 100 60 60 m3
+response: None
+start time: 2019-03-19 22:53:13.453107
+end_time: None
+duration: None
+
+id: 7
+command: land
+response: ok
+start time: 2019-03-19 22:53:22.453323
+end_time: 2019-03-19 22:53:24.197875
+duration: 1.744552
+

@@ -1,0 +1,25 @@
+scan 1
+battery_check 20
+correct_ip
+1=0TQDFB6EDB433F
+*>mon
+*>takeoff
+1>flip l
+sinc 3
+1>flip r
+sinc 3
+1>flip f
+sinc 3
+1>flip b
+sinc 3
+//sinc 15
+//1>jump 100 0 100 60 -90 m1 m2
+//sinc 15
+//1>jump 0 -100 100 60 -180 m2 m4
+//sinc 20
+//1>jump -100 0 100 60 -270 m4 m3
+//sinc 20
+//1>jump 0 100 100 60 -360 m3 m1
+//sinc 20
+//1>go 20 -80 100 60 m2
+*>land

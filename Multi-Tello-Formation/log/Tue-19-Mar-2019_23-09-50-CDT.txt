@@ -1,0 +1,95 @@
+------
+Drone: 1
+
+id: 0
+command: command
+response: None
+start time: 2019-03-19 23:09:50.610862
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2019-03-19 23:09:55.622455
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2019-03-19 23:10:00.636889
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2019-03-19 23:10:05.657363
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: ok
+start time: 2019-03-19 23:10:10.671521
+end_time: 2019-03-19 23:10:11.089388
+duration: 0.417867
+
+id: 5
+command: battery?
+response: 100
+
+start time: 2019-03-19 23:10:15.688619
+end_time: 2019-03-19 23:10:15.729613
+duration: 0.040994
+
+id: 6
+command: sn?
+response: 0TQDFB6EDB433F
+start time: 2019-03-19 23:10:17.190207
+end_time: 2019-03-19 23:10:17.213697
+duration: 0.02349
+
+id: 7
+command: mon
+response: ok
+start time: 2019-03-19 23:10:18.191537
+end_time: 2019-03-19 23:10:18.234186
+duration: 0.042649
+
+id: 8
+command: takeoff
+response: ok
+start time: 2019-03-19 23:10:18.234350
+end_time: 2019-03-19 23:10:22.156809
+duration: 3.922459
+
+id: 9
+command: jump 100 0 100 60 -90 m1 m2
+response: ok
+start time: 2019-03-19 23:10:22.156947
+end_time: 2019-03-19 23:10:29.048876
+duration: 6.891929
+
+id: 10
+command: jump 0 -100 100 60 -90 m2 m4
+response: ok
+start time: 2019-03-19 23:10:29.049245
+end_time: 2019-03-19 23:10:32.972744
+duration: 3.923499
+
+id: 11
+command: jump -100 0 100 60 -90 m4 m3
+response: ok
+start time: 2019-03-19 23:10:32.972875
+end_time: 2019-03-19 23:10:36.392748
+duration: 3.419873
+
+id: 12
+command: land
+response: ok
+start time: 2019-03-19 23:10:36.392921
+end_time: 2019-03-19 23:10:40.164985
+duration: 3.772064
+

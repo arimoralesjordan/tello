@@ -1,0 +1,60 @@
+------
+Drone: 1
+
+id: 0
+command: command
+response: ok
+start time: 2019-03-16 13:26:52.329883
+end_time: 2019-03-16 13:26:52.343489
+duration: 0.013606
+
+id: 1
+command: battery?
+response: 93
+
+start time: 2019-03-16 13:26:57.341585
+end_time: 2019-03-16 13:26:57.416758
+duration: 0.075173
+
+id: 2
+command: sn?
+response: 0TQDFB6EDB433F
+start time: 2019-03-16 13:26:58.842827
+end_time: 2019-03-16 13:26:58.900745
+duration: 0.057918
+
+id: 3
+command: mon
+response: ok
+start time: 2019-03-16 13:27:00.344543
+end_time: 2019-03-16 13:27:00.364677
+duration: 0.020134
+
+id: 4
+command: takeoff
+response: ok
+start time: 2019-03-16 13:27:00.364875
+end_time: 2019-03-16 13:27:03.670660
+duration: 3.305785
+
+id: 5
+command: go 50 0 80 60 m3
+response: error No valid marker
+start time: 2019-03-16 13:27:03.704226
+end_time: 2019-03-16 13:27:05.863128
+duration: 2.158902
+
+id: 6
+command: flip r
+response: ok
+start time: 2019-03-16 13:27:05.963363
+end_time: 2019-03-16 13:27:09.592744
+duration: 3.629381
+
+id: 7
+command: land
+response: ok
+start time: 2019-03-16 13:27:09.673417
+end_time: 2019-03-16 13:27:11.675587
+duration: 2.00217
+

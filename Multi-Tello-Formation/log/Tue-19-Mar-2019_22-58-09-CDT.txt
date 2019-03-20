@@ -1,0 +1,53 @@
+------
+Drone: 1
+
+id: 0
+command: command
+response: ok
+start time: 2019-03-19 22:58:09.588224
+end_time: 2019-03-19 22:58:09.648268
+duration: 0.060044
+
+id: 1
+command: battery?
+response: 40
+
+start time: 2019-03-19 22:58:14.598049
+end_time: 2019-03-19 22:58:14.646820
+duration: 0.048771
+
+id: 2
+command: sn?
+response: 0TQDFB6EDB433F
+start time: 2019-03-19 22:58:16.099738
+end_time: 2019-03-19 22:58:16.126826
+duration: 0.027088
+
+id: 3
+command: mon
+response: ok
+start time: 2019-03-19 22:58:17.601520
+end_time: 2019-03-19 22:58:17.626587
+duration: 0.025067
+
+id: 4
+command: takeoff
+response: ok
+start time: 2019-03-19 22:58:17.626766
+end_time: 2019-03-19 22:58:21.704787
+duration: 4.078021
+
+id: 5
+command: curve 100 0 100 100 0 100 60 m1
+response: error Three points are collinear!
+start time: 2019-03-19 22:58:21.705001
+end_time: 2019-03-19 22:58:21.787475
+duration: 0.082474
+
+id: 6
+command: land
+response: ok
+start time: 2019-03-19 22:58:21.787627
+end_time: 2019-03-19 22:58:24.388448
+duration: 2.600821
+

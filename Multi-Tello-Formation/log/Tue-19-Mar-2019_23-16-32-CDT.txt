@@ -1,0 +1,116 @@
+------
+Drone: 1
+
+id: 0
+command: command
+response: None
+start time: 2019-03-19 23:16:32.534093
+end_time: None
+duration: None
+
+id: 1
+command: command
+response: None
+start time: 2019-03-19 23:16:37.548668
+end_time: None
+duration: None
+
+id: 2
+command: command
+response: None
+start time: 2019-03-19 23:16:42.567242
+end_time: None
+duration: None
+
+id: 3
+command: command
+response: None
+start time: 2019-03-19 23:16:47.582384
+end_time: None
+duration: None
+
+id: 4
+command: command
+response: None
+start time: 2019-03-19 23:16:52.599474
+end_time: None
+duration: None
+
+id: 5
+command: command
+response: None
+start time: 2019-03-19 23:16:57.616089
+end_time: None
+duration: None
+
+id: 6
+command: command
+response: ok
+start time: 2019-03-19 23:17:02.632191
+end_time: 2019-03-19 23:17:02.660064
+duration: 0.027873
+
+id: 7
+command: battery?
+response: 82
+
+start time: 2019-03-19 23:17:07.653792
+end_time: 2019-03-19 23:17:07.706585
+duration: 0.052793
+
+id: 8
+command: sn?
+response: 0TQDFB6EDB433F
+start time: 2019-03-19 23:17:09.155519
+end_time: 2019-03-19 23:17:09.186033
+duration: 0.030514
+
+id: 9
+command: mon
+response: ok
+start time: 2019-03-19 23:17:10.657324
+end_time: 2019-03-19 23:17:10.668374
+duration: 0.01105
+
+id: 10
+command: takeoff
+response: ok
+start time: 2019-03-19 23:17:10.668496
+end_time: 2019-03-19 23:17:14.404748
+duration: 3.736252
+
+id: 11
+command: jump 100 0 100 60 -90 m1 m2
+response: ok
+start time: 2019-03-19 23:17:14.404901
+end_time: 2019-03-19 23:17:20.784288
+duration: 6.379387
+
+id: 12
+command: jump 0 -100 100 60 -180 m2 m4
+response: ok
+start time: 2019-03-19 23:17:20.784438
+end_time: 2019-03-19 23:17:28.773140
+duration: 7.988702
+
+id: 13
+command: jump -100 0 100 60 -270 m4 m3
+response: error No valid marker
+start time: 2019-03-19 23:17:28.773278
+end_time: 2019-03-19 23:17:34.284559
+duration: 5.511281
+
+id: 14
+command: jump 0 100 100 60 -360 m3 m1
+response: error No valid marker
+start time: 2019-03-19 23:17:34.284695
+end_time: 2019-03-19 23:17:34.334593
+duration: 0.049898
+
+id: 15
+command: land
+response: ok
+start time: 2019-03-19 23:17:34.334747
+end_time: 2019-03-19 23:17:38.160831
+duration: 3.826084
+
