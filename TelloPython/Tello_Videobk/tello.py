@@ -100,9 +100,8 @@ class Tello:
     def get_udp_video_address(self):
         # + '?overrun_nonfatal=1&fifo_size=5000'
         return 'udp://@' + self.VS_UDP_IP + ':' + str(self.VS_UDP_PORT)
-
-
-   def _receive_video_thread(self):
+    
+    def _receive_video_thread(self):
         """
         Listens for video streaming (raw h264) from the Tello.
 

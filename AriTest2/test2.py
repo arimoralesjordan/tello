@@ -10,7 +10,7 @@ import pdb
 
 # IP and port of Tello
 tellos = [
-  ('10.0.1.24', 8889)
+  ('192.168.10.1', 8889)
 ]
 
 # set the decoder
